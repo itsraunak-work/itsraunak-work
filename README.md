@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header" width="100%"/>
 
 <h1 align="left">Hrithik Gupta</h1>
-<h3 align="left">Electrical Engineer · AI/ML Builder</h3>
+<h3 align="left">Electrical And Electronics Engineer · AI/ML Builder</h3>
 
 <p align="left">
   <em>
@@ -11,13 +11,13 @@
 </p>
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/hrithik-gupta-7851bb3b8?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER">
+  <a href="https://x.com/14_akrur">
     <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:its.raunak.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
