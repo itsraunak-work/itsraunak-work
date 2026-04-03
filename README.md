@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header" width="100%"/>
+
 
 <h1 align="left">Hrithik Gupta</h1>
 <h3 align="left">Electrical And Electronics Engineer · AI/ML Builder</h3>
