@@ -1,11 +1,8 @@
-<h1 align="left">Hrithik Gupta</h1>
-<h3 align="left">Electrical And Electronics Engineer · AI/ML Builder · Software Engineer</h3>
+<h1 align="left">Hey, I'm Hrithik 👋</h1>
 
 <p align="left">
-  <em>
-    I sit at the intersection of hardware, software, and intelligence.<br/>
-    I don't just write code — I engineer systems that think, decide, and scale.
-  </em>
+  <em>Electrical Engineer who fell in love with code.<br/>
+  Building AI that catches disease before it catches you.</em>
 </p>
 
 <p align="left">
@@ -22,31 +19,33 @@
 
 ---
 
-## Who I Am
+## A Bit About Me
 
-I'm an **Electrical & Electronics Engineer** who codes like a software engineer and thinks like a product designer.
+I'm an Electrical & Electronics Engineer — but honestly, I've always been more interested in the software that makes hardware intelligent than the hardware itself.
 
-Most engineers pick a lane. I didn't.
+That curiosity led me down a path I didn't expect: Android development, then machine learning, then deep learning, and now I'm building a medical AI system from scratch while studying everything a top SDE needs to know — data structures, system design, operating systems, computer networks.
 
-My background in **EEE** gives me a first-principles understanding of how systems work at the hardware level. My work in **Android development** gives me the ability to ship real products into real hands. And my deep dive into **AI/ML** lets me build systems that don't just run — they learn.
+I didn't follow a traditional path. I followed problems that genuinely needed solving.
 
-I believe the most dangerous engineers are the ones who can cross boundaries. That's what I'm becoming.
+The thing I keep coming back to: people around me have suffered from diseases that were caught too late. That bothers me. So I'm doing something about it. That's **PredictaCare** — an AI system I'm building to predict disease risk before symptoms even appear.
+
+I'm not waiting for a degree or a job offer to start building things that matter. I'm building right now.
 
 ---
 
-## Tech Arsenal
+## What I Work With
 
-**Languages**
+**Languages I'm comfortable in**
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/XML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 </p>
 
-**Android Development**
+**Android — where I've shipped real things**
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
@@ -55,19 +54,19 @@ I believe the most dangerous engineers are the ones who can cross boundaries. Th
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
 </p>
 
-**AI / ML / Data**
+**AI & ML — where I'm going deep right now**
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square"/>
   <img src="https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </p>
 
-**Software Engineering — CS Fundamentals**
+**CS Fundamentals — actively strengthening**
 <p>
   <img src="https://img.shields.io/badge/Data%20Structures-00599C?style=flat-square"/>
   <img src="https://img.shields.io/badge/Algorithms-FF6B6B?style=flat-square"/>
@@ -77,7 +76,7 @@ I believe the most dangerous engineers are the ones who can cross boundaries. Th
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
 </p>
 
-**System Design**
+**System Design — learning the big picture**
 <p>
   <img src="https://img.shields.io/badge/Microservices-0A66C2?style=flat-square"/>
   <img src="https://img.shields.io/badge/REST%20API%20Design-009688?style=flat-square"/>
@@ -88,7 +87,7 @@ I believe the most dangerous engineers are the ones who can cross boundaries. Th
   <img src="https://img.shields.io/badge/Database%20Sharding-4479A1?style=flat-square"/>
 </p>
 
-**Operating Systems & Networks**
+**OS, Networks & Low Level**
 <p>
   <img src="https://img.shields.io/badge/Operating%20Systems-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Computer%20Networks-0078D4?style=flat-square"/>
@@ -98,7 +97,7 @@ I believe the most dangerous engineers are the ones who can cross boundaries. Th
   <img src="https://img.shields.io/badge/DBMS-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-**EEE / Systems**
+**Hardware background — EEE roots**
 <p>
   <img src="https://img.shields.io/badge/Embedded%20Systems-00979D?style=flat-square"/>
   <img src="https://img.shields.io/badge/Circuit%20Design-FF0000?style=flat-square"/>
@@ -106,7 +105,7 @@ I believe the most dangerous engineers are the ones who can cross boundaries. Th
   <img src="https://img.shields.io/badge/IoT-41BDF5?style=flat-square&logo=homeassistant&logoColor=white"/>
 </p>
 
-**Tools & DevOps**
+**Tools I use daily**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -118,27 +117,78 @@ I believe the most dangerous engineers are the ones who can cross boundaries. Th
 
 ---
 
-## The Polymath Stack
+## Where I Actually Stand Right Now
+
+I think honesty on a GitHub profile matters more than making everything look perfect.
+Here's a real snapshot:
+
 ```
-Hardware Understanding  ████████████░░  EEE Foundation
-Android Development     ████████████░░  Shipping Real Apps
-Machine Learning        ████████░░░░░░  Actively Building
-System Design           ██████░░░░░░░░  Actively Learning
-CS Fundamentals         ███████░░░░░░░  DSA + OS + Networks
-Statistical Analysis    ███████░░░░░░░  Learning via PredictaCare
-Systems Thinking        █████████████░  Cross-domain by nature
+Android Development     ████████████░░  Shipped real apps. Comfortable here.
+EEE & Hardware          ████████████░░  My foundation. I think in systems.
+Machine Learning        ████████░░░░░░  Actively building. Learning fast.
+System Design           ██████░░░░░░░░  Studying seriously. Improving daily.
+DSA & CS Fundamentals   ███████░░░░░░░  LeetCode grind is real and ongoing.
+Deep Learning           █████░░░░░░░░░  Going deep. Transformers, CNNs, RNNs.
 ```
+
+I'd rather show you where I am than pretend I'm somewhere I'm not.
+Growth is the point.
 
 ---
 
-## SDE Roadmap — Google & Meta Standard
+## Projects I've Actually Built
+
+<p align="left">
+  <a href="https://github.com/itsraunak-work/focus-launcher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsraunak-work&repo=focus-launcher&theme=default&hide_border=true"/>
+  </a>
+  <a href="https://github.com/itsraunak-work/PredictaCare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsraunak-work&repo=PredictaCare&theme=default&hide_border=true"/>
+  </a>
+</p>
+
+**Focus Launcher** — I was losing hours to my phone every day. Built an Android launcher that blocks distractions at the OS level. Scratched my own itch, then open-sourced it. Real users, real feedback, real iterations.
+
+**PredictaCare** — The bigger one. An AI system that analyzes medical records, lifestyle data, and diagnostic imaging to predict disease risk before symptoms appear. Currently training ML models on real medical datasets. Building in public, documenting everything.
+
+---
+
+## What I'm Learning Right Now
+
+I document my learning publicly because it keeps me honest and it helps others on the same path.
+
+Right now I'm going deep on:
+
+- **Neural Networks & Deep Learning** — Not just using libraries. Understanding what's actually happening inside them. Gradient descent, backpropagation, attention mechanisms, Transformers — from scratch.
+- **System Design** — How do you build something that serves a million users without breaking? Load balancing, caching, database design, microservices. Studying real architectures used at Google and Meta.
+- **Data Structures & Algorithms** — Daily LeetCode. Not just for interviews — because strong fundamentals genuinely make everything else cleaner.
+- **Operating Systems & Computer Networks** — The layer below the code. Process scheduling, memory management, TCP/IP, how the internet actually works.
+
+---
+
+## The SDE Foundation I'm Building
+
+These are the things that Google, Meta, and every serious engineering team actually care about:
+
 ```
-Data Structures & Algorithms  → LeetCode (Active)
-Operating Systems             → Process, Memory, Scheduling
-Computer Networks             → TCP/IP, HTTP, DNS, Load Balancing
-Database Management           → SQL, Indexing, Transactions
-System Design                 → Scalability, Availability, CAP Theorem
-Distributed Systems           → Consistency, Replication, Sharding
+Core CS
+├── Data Structures & Algorithms  → Daily practice on LeetCode
+├── Object Oriented Programming   → Principles, not just syntax
+├── SOLID & Design Patterns       → Writing code others can work with
+└── Time & Space Complexity       → Think before you code
+
+Systems
+├── Operating Systems             → Processes, threads, memory, scheduling
+├── Computer Networks             → TCP/IP, HTTP, DNS, how data actually moves
+├── DBMS                          → Relational models, indexing, ACID
+└── Distributed Systems           → CAP theorem, consistency, replication
+
+System Design
+├── Scalability                   → How to handle real growth
+├── Microservices                 → Breaking things apart intelligently
+├── Caching                       → Redis, CDN, what to cache and why
+├── Load Balancing                → Distributing traffic without single points of failure
+└── Message Queues                → Kafka, async systems, decoupling services
 ```
 
 ---
@@ -154,39 +204,30 @@ Distributed Systems           → Consistency, Replication, Sharding
 
 ---
 
-## Featured Projects
+## What I'm Looking For
 
-<p align="left">
-  <a href="https://github.com/itsraunak-work/focus-launcher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsraunak-work&repo=focus-launcher&theme=default&hide_border=true"/>
-  </a>
-  <a href="https://github.com/itsraunak-work/PredictaCare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsraunak-work&repo=PredictaCare&theme=default&hide_border=true"/>
-  </a>
-</p>
+I'm open to opportunities where I can contribute real work and keep learning fast.
 
----
+- **Internships** in AI/ML, Android, or software engineering
+- **Research collaborations** especially in medical AI or healthcare tech
+- **Open source projects** where I can contribute alongside experienced engineers
+- **Full-time roles** if the problem is genuinely interesting and the team is serious
 
-## What Drives Me
-
-I grew up watching people around me suffer from diseases that were caught too late.
-
-That's why I'm building **PredictaCare** — not because it looks good on a resume, but because early detection genuinely changes outcomes. AI in healthcare isn't a trend to me. It's personal.
-
-And Focus Launcher? I built it because I was losing hours to my own phone. I fixed my problem, then open-sourced the fix.
-
-That's my engineering philosophy: **build for real problems, ship it, open source it.**
+I'm not looking for a place to coast. I'm looking for a place to build things that matter.
 
 ---
 
-## Currently
+## One Last Thing
 
-- 🔬 Training ML models on medical datasets for PredictaCare
-- 📱 Improving Focus Launcher based on user feedback
-- 🧠 Deep diving: Neural Networks · Transformers · System Design
-- 💻 Grinding: Data Structures & Algorithms on LeetCode
-- 📖 Studying: Operating Systems · Computer Networks · DBMS
-- 🎯 Open to: Internships · Collaborations · Research Projects · Full-time Roles
+If you've read this far — thank you.
+
+Most GitHub profiles look the same. I wanted mine to tell you something real about who I am and where I'm going.
+
+I learn fast. I work hard. I care about building things that actually help people.
+
+If that sounds like someone you want on your team — let's talk.
+
+📧 its.raunak.work@gmail.com
 
 ---
 
