@@ -1,7 +1,5 @@
-
-
 <h1 align="left">Hrithik Gupta</h1>
-<h3 align="left">Electrical And Electronics Engineer · AI/ML Builder</h3>
+<h3 align="left">Electrical And Electronics Engineer · AI/ML Builder · Software Engineer</h3>
 
 <p align="left">
   <em>
@@ -36,7 +34,6 @@ I believe the most dangerous engineers are the ones who can cross boundaries. Th
 
 ---
 
-
 ## Tech Arsenal
 
 **Languages**
@@ -45,7 +42,7 @@ I believe the most dangerous engineers are the ones who can cross boundaries. Th
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/XML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 </p>
 
@@ -60,11 +57,45 @@ I believe the most dangerous engineers are the ones who can cross boundaries. Th
 
 **AI / ML / Data**
 <p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
+
+**Software Engineering — CS Fundamentals**
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures-00599C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Algorithms-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OOP-6A0DAD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SOLID%20Principles-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Design%20Patterns-FF9900?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+</p>
+
+**System Design**
+<p>
+  <img src="https://img.shields.io/badge/Microservices-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/REST%20API%20Design-009688?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Load%20Balancing-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Caching-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Message%20Queues-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Distributed%20Systems-6A0DAD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Database%20Sharding-4479A1?style=flat-square"/>
+</p>
+
+**Operating Systems & Networks**
+<p>
+  <img src="https://img.shields.io/badge/Operating%20Systems-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-0078D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-00979D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Process%20Management-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Memory%20Management-6A0DAD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DBMS-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 **EEE / Systems**
@@ -75,11 +106,13 @@ I believe the most dangerous engineers are the ones who can cross boundaries. Th
   <img src="https://img.shields.io/badge/IoT-41BDF5?style=flat-square&logo=homeassistant&logoColor=white"/>
 </p>
 
-**Tools**
+**Tools & DevOps**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </p>
 
@@ -88,10 +121,24 @@ I believe the most dangerous engineers are the ones who can cross boundaries. Th
 ## The Polymath Stack
 ```
 Hardware Understanding  ████████████░░  EEE Foundation
-Android Development     ████████████░░  Shipping Real Apps  
+Android Development     ████████████░░  Shipping Real Apps
 Machine Learning        ████████░░░░░░  Actively Building
+System Design           ██████░░░░░░░░  Actively Learning
+CS Fundamentals         ███████░░░░░░░  DSA + OS + Networks
 Statistical Analysis    ███████░░░░░░░  Learning via PredictaCare
 Systems Thinking        █████████████░  Cross-domain by nature
+```
+
+---
+
+## SDE Roadmap — Google & Meta Standard
+```
+Data Structures & Algorithms  → LeetCode (Active)
+Operating Systems             → Process, Memory, Scheduling
+Computer Networks             → TCP/IP, HTTP, DNS, Load Balancing
+Database Management           → SQL, Indexing, Transactions
+System Design                 → Scalability, Availability, CAP Theorem
+Distributed Systems           → Consistency, Replication, Sharding
 ```
 
 ---
@@ -113,9 +160,10 @@ Systems Thinking        █████████████░  Cross-domain
   <a href="https://github.com/itsraunak-work/focus-launcher">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsraunak-work&repo=focus-launcher&theme=default&hide_border=true"/>
   </a>
+  <a href="https://github.com/itsraunak-work/PredictaCare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsraunak-work&repo=PredictaCare&theme=default&hide_border=true"/>
+  </a>
 </p>
-
-*(PredictaCare repo coming soon)*
 
 ---
 
@@ -135,7 +183,9 @@ That's my engineering philosophy: **build for real problems, ship it, open sourc
 
 - 🔬 Training ML models on medical datasets for PredictaCare
 - 📱 Improving Focus Launcher based on user feedback
-- 📖 Going deep on: Neural Networks, Android Jetpack, Statistical Modeling in R
+- 🧠 Deep diving: Neural Networks · Transformers · System Design
+- 💻 Grinding: Data Structures & Algorithms on LeetCode
+- 📖 Studying: Operating Systems · Computer Networks · DBMS
 - 🎯 Open to: Internships · Collaborations · Research Projects · Full-time Roles
 
 ---
