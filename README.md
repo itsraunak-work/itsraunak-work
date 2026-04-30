@@ -1,7 +1,7 @@
 <h1 align="left">Hey, I'm Hrithik 👋</h1>
 
 <p align="left">
-  <em>Electrical Engineer who fell in love with code.<br/>
+  <em>Electrical & Electronics Engineer who fell in love with code.<br/>
   Building AI that catches disease before it catches you.</em>
 </p>
 
