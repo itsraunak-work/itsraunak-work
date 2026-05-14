@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hrithik-gupta-7851bb3b8?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <a href="https://www.linkedin.com/in/akrur-gupta">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/14_akrur">
